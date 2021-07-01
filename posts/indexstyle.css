@@ -1,0 +1,11 @@
+.divider{
+    width: 300px;
+    height: 2px;
+    background-color: gray;
+    display: inline-block;
+    align-self: center;
+}
+
+.line{
+    text-align: center;
+}
